@@ -6,4 +6,4 @@ O projeto foca em fazer um storytelling da história da relação do dólar com 
 
 O código foi elaborado, primeiramente, em um Notebook Jupyther para gerar um protótipo. Então esse código foi convertido em script .py, seguindo as boas condutas de código limpo. Por fim, foram acrescentados casos de teste e logging para captação de erros e fluxo de execução.
 
-file:///home/lufec/Downloads/MLOps/Dollar_to_Real_storytelling/imgs/fig.png![image](https://user-images.githubusercontent.com/30414428/143799853-457037d3-18f3-4935-b7c3-7aa90db81220.png)
+![image](https://user-images.githubusercontent.com/30414428/143799853-457037d3-18f3-4935-b7c3-7aa90db81220.png)
